@@ -7,7 +7,7 @@ This library integrates Postal with the standard Laravel 5 mail framework.
 First, install the package using Composer:
 
 ```
-composer require synergitech/laravel-composer
+composer require synergitech/laravel-postal
 ```
 
 Next, add your credentials to your `.env` and set your mail driver to `postal`:
